@@ -2,5 +2,5 @@
 
 ## Form kuesioner bisa dilihat di link berikut:
 
-* [Form dalam bahasa Indonesia](https://billyzaelani.github.io/kuesioner-lafzi/form-id.html)
-* [Form in English language](https://billyzaelani.github.io/kuesioner-lafzi/form-en.html)
+* [Form untuk pembicara bahasa Indonesia](https://billyzaelani.github.io/kuesioner-lafzi/form-id.html)
+* [Form for native English speaker](https://billyzaelani.github.io/kuesioner-lafzi/form-en.html)
